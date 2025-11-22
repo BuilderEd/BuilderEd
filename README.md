@@ -1,4 +1,4 @@
-## Hi!! My name is Edward Wu👋
+## Hi! This is is Edward Wu👋
 
 First year Computer Science undergraduate at [MUST](https://www.must.edu.mo/)
 ### 🔬 I'm passionate about 
