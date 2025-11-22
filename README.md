@@ -14,5 +14,5 @@ First year Computer Science undergraduate at [MUST](https://www.must.edu.mo/)
   - ☕[IP_Complex](https://github.com/Builder-Ed/IP_Complex)
 ### 📫 Let's Contact! 
   - Email: Its.Builder.Ed@gmail.com
-  - Twitter: @BuilderEd19216
+  - Twitter: [@BuilderEd19216](https://x.com/BuilderEd19216)
 
